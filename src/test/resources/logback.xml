@@ -19,7 +19,7 @@
     <logger name="com.github.tomakehurst" level="ERROR"/>
     <logger name="org.eclipse.jetty" level="ERROR" />
 
-    <root level="DEBUG">
+    <root level="OFF">
         <appender-ref ref="STDOUT" />
         <!--<appender-ref ref="FILE" />-->
     </root>
